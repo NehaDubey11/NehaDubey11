@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-🔭 I’m currently working on a closed book chatbot
+🔭 I’m currently working on a closed book chatbot<br>
 🌱 I’m currently learning Deep Learning
 👯 I’m looking to collaborate on different Data science projects
 📫 How to reach me:
