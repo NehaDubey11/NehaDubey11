@@ -3,7 +3,8 @@
 <!--
 **NehaDubey11/NehaDubey11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
+-->
 
 🔭 I’m currently working on a closed book chatbot
 🌱 I’m currently learning Deep Learning
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
                 Tableau-https://public.tableau.com/app/profile/neha.dubey#!/?newProfile=true&activeTab=0
      
 
--->
